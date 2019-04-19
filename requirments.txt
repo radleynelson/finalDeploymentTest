@@ -1,0 +1,7 @@
+Django==2.2
+django-mako-plus==5.11.2
+gunicorn==19.9.0
+Mako==1.0.9
+MarkupSafe==1.1.1
+pytz==2019.1
+sqlparse==0.3.0
